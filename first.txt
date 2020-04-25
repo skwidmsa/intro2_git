@@ -1,2 +1,4 @@
 git status
+
+dit diff
 —ûK—p
